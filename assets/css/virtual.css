@@ -1045,6 +1045,11 @@ a:hover, a:active {
     }
 }
 
+.icons-contact {
+    display: flex;
+    justify-content: center;
+}
+
 /* Isotope */
 .gridder {
     position: relative;
